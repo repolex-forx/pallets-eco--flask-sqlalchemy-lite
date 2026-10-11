@@ -1,0 +1,11 @@
+{
+  "org": "pallets-eco",
+  "repo": "flask-sqlalchemy-lite",
+  "versions": [
+    {
+      "commit": "8d31da6885cb8eadf33f5ecaa19999b90a977fdb",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:41:15.260512+00:00"
+    }
+  ]
+}
